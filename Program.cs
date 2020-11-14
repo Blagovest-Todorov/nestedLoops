@@ -24,6 +24,7 @@ namespace _17.nestedLoops
                     }
                 }
             }
+            Console.WriteLine("Hurahhh");
         }
     }
 }
