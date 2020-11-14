@@ -12,15 +12,14 @@ namespace _17.nestedLoops
             {
                 for (int b = 0; b <= 9 ; b++)
                 {
-                    for (int c = 0; c <= 9; c++)
+                    for (int c = 0; c <= 9; c++)   ///a+b-c = d; // d>=0 && d <=9  optinmised with  3 cycles not with 4
                     {
-                        for (int d = 0; d <= 9 ; d++)
-                        {
-                            if ((a + b) == (c + d)) 
+                            int d = a + b - c;   //a+b = c+d ;
+                            if ( 0 <= d && d <= 9 ) 
                             {
                                 Console.WriteLine($"{a}{b}{c}{d}");
                             }
-                        }
+                        
                     }
                 }
             }
