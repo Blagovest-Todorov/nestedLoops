@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\DataTypes\17.nestedLoops\bin\Debug\netcoreapp3.1\17.nestedLoops.exe
+C:\Users\Bla\source\repos\DataTypes\17.nestedLoops\bin\Debug\netcoreapp3.1\17.nestedLoops.deps.json
+C:\Users\Bla\source\repos\DataTypes\17.nestedLoops\bin\Debug\netcoreapp3.1\17.nestedLoops.runtimeconfig.json
+C:\Users\Bla\source\repos\DataTypes\17.nestedLoops\bin\Debug\netcoreapp3.1\17.nestedLoops.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\DataTypes\17.nestedLoops\bin\Debug\netcoreapp3.1\17.nestedLoops.dll
+C:\Users\Bla\source\repos\DataTypes\17.nestedLoops\bin\Debug\netcoreapp3.1\17.nestedLoops.pdb
+C:\Users\Bla\source\repos\DataTypes\17.nestedLoops\obj\Debug\netcoreapp3.1\17.nestedLoops.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\DataTypes\17.nestedLoops\obj\Debug\netcoreapp3.1\17.nestedLoops.AssemblyInfo.cs
+C:\Users\Bla\source\repos\DataTypes\17.nestedLoops\obj\Debug\netcoreapp3.1\17.nestedLoops.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DataTypes\17.nestedLoops\obj\Debug\netcoreapp3.1\17.nestedLoops.dll
+C:\Users\Bla\source\repos\DataTypes\17.nestedLoops\obj\Debug\netcoreapp3.1\17.nestedLoops.pdb
+C:\Users\Bla\source\repos\DataTypes\17.nestedLoops\obj\Debug\netcoreapp3.1\17.nestedLoops.genruntimeconfig.cache
